@@ -1,2 +1,1 @@
-# edu-hexlet
-Exmple is Hexlet
+Geka change readme file. Geka it is cool!
