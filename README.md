@@ -1,2 +1,2 @@
 # edu-hexlet
-Exmple ois Hexlet
+Exmple is Hexlet
